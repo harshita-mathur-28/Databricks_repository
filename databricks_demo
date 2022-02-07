@@ -1,0 +1,21 @@
+fixed_width_column_defs = {
+  "submitted_at": (1, 15),
+  "order_id": (16, 40),
+  "customer_id": (56, 40),
+  "sales_rep_id": (96, 40),
+  "sales_rep_ssn": (136, 15),
+  "sales_rep_first_name": (151, 15),
+  "sales_rep_last_name": (166, 15),
+  "sales_rep_address": (181, 40),
+  "sales_rep_city": (221, 20),
+  "sales_rep_state": (241, 2),
+  "sales_rep_zip": (243, 5),
+  "shipping_address_attention": (248, 30),
+  "shipping_address_address": (278, 40),
+  "shipping_address_city": (318, 20),
+  "shipping_address_state": (338, 2),
+  "shipping_address_zip": (340, 5),
+  "product_id": (345, 40),
+  "product_quantity": (385, 5),
+  "product_sold_price": (390, 20)
+}
